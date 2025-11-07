@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
         <div className="max-w-3xl">
           <p className="text-gray-500 mb-4">Bienvenido a nuestro ecosistema digital de seguridad vial.</p>
           <h1 className="text-5xl md:text-7xl font-extrabold text-gray-900 leading-tight">
-            Eiker cambio esto
+            Experimenta el Futuro de la Educación Vial
           </h1>
         </div>
         <div className="absolute top-0 right-0 text-right">

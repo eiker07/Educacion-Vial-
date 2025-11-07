@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="max-w-screen-2xl mx-auto py-12 px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-2xl font-bold mb-4 md:mb-0">
-            <span className="text-primary">Este es un cambio</span>
+            <span className="text-primary">Ejemplo</span>
           </div>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-primary transition-colors">Facebook</a>
